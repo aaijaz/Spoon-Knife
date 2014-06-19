@@ -6,11 +6,14 @@
 #octocat {
   display: block;
   width:384px;
+  text-align:center;
   margin: 50px auto;
 }
 
 p {
+	text-align: center;
   display: block;
+  color: blue;
   width: 400px;
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
